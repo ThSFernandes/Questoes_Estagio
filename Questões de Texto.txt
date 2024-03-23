@@ -1,0 +1,32 @@
+Questões de Resposta:
+
+Questão 1: 
+
+A variável soma é 13
+
+Questão 3: 
+
+ a) 1, 3, 5, 7, ___ ( Está sequência é uma progressão aritmética com razão 2, começando de 1. Assim, o próximo número seria 9.
+
+ b) 2, 4, 8, 16, 32, 64, ___: Nesta sequência, cada número é o dobro do número anterior ou pode se ententender ( 2¹,2²,2³ ...). Logo, o próximo número seria 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, ___:Está é uma sequência de números que representa os quadrados dos números naturais (0², 1², 2², 3², ...). Portanto, o próximo número seria 49.
+
+d) 4, 16, 36, 64, ____ Esta é uma sequência de números que representa os quadrados dos números pares 2², 4², 6² . Porntanto, o próximo número seria 100
+
+e) 1, 1, 2, 3, 5, 8, ___: Está é a sequência de Fibonacci, onde cada número é a soma dos dois números anteriores. Portanto, o próximo número seria 13.
+    
+f) 2, 10, 12, 16, 17, 18, 19, ___: Está é uma sequência dos número que começam com a letra d , então o próximo é 200.
+
+Questão 4:
+
+Passo 1: Acender qualquer interruptor por 20 minutos. Logo após desligar, acender outro interruptor e ir para uma das salas. Há dois casos.
+Caso 1 do passo 1:
+Se estiver ligado, então é o interruptor que ligou por último.
+Passo 2: ligar um segundo interruptor e ir para alguma sala. 
+Caso 1 do passo 2: Se a lâmpada estiver ligada, corresponde àquele segundo interruptor e o terceiro corresponde à sala restante.
+Caso 2 do passo 2: Se a lâmpada estiver desligada, corresponde ao terceiro interruptor e a sala restante corresponde ao segundo interruptor.
+
+Caso 2 do passo 1: Verificar a temperatura: se estiver quente é o interruptor que ligou primeiro, caso nenhuma das duas será o terceiro interruptor (o restante).
+Passo 2 do caso 2: ligar o primeiro interruptor e ir para outra sala.
+Se a lâmpada estiver acesa, então corresponde ao interruptor aceso e o segundo interruptor corresponde à sala restante. Se a lâmpada não estiver acesa, a sala corresponde ao segundo interruptor e a sala restante ao primeiro interruptor.
